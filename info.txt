@@ -1,2 +1,29 @@
 Ahmet Faik Utku - 22103582 - https://github.com/FaikUtku
 Favourite video game: Age of Empires II
+
+commit 57f82b767b74c3b5b727c3bbd2acab0c2ea8a561 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 6c8a175 47cf2c3
+Author: FaikUtku <91693278+FaikUtku@users.noreply.github.com>
+Date:   Thu Feb 10 10:19:07 2022 +0300
+
+    Merge pull request #1 from FaikUtku/new_information
+    
+    Favourite video game added into info.txt
+
+commit 47cf2c3276839325f724bb950c0c7980a9b862ec (origin/new_information, new_information)
+Author: Ahmet Faik Utku <ahmetfaikutku@gmail.com>
+Date:   Thu Feb 10 10:18:01 2022 +0300
+
+    Favourite video game added into info.txt
+
+commit 6c8a1756aeee6f3e70f495db87c11b3c5c401a52
+Author: Ahmet Faik Utku <ahmetfaikutku@gmail.com>
+Date:   Thu Feb 10 10:13:01 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit b7d1aa3909d34b1d011222e17876a01ff6288a1c
+Author: FaikUtku <91693278+FaikUtku@users.noreply.github.com>
+Date:   Thu Feb 10 10:04:44 2022 +0300
+
+    Initial commit
